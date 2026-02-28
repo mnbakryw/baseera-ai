@@ -1,4 +1,4 @@
-ر# Baseera (بصيرة)
+# Baseera (بصيرة)
 
 Baseera is an open-source, accessibility-focused learning engine designed to support blind and visually impaired students in Arabic-first educational contexts.
 
